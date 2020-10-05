@@ -3,5 +3,6 @@ Animations and transitions
 
 
 
-![](images/first.png)
-![](images/second.png)
+<p float="left">
+  <img src="screenshots/first.png" width="250" />
+</p>
